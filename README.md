@@ -4,7 +4,7 @@ A little utility I wrote for myself to pick a random wallpaper.
 
 ## How does it work?
 
-First, it finds where your current wallpaper exists. Then it looks for other images<sup>1</sup> in that same directory and picks one at random. That randomly selected image is now your wallpaper.
+First, it finds where your current wallpaper exists. Then it looks for other images<sup>1</sup> in that same directory and picks one at random. Then it sets that as your new wallpaper.
 
 ## How to use it
 
